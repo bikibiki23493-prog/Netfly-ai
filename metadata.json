@@ -1,0 +1,5 @@
+{
+  "name": "Netfly Ai",
+  "description": "A powerful, modern chat interface powered by Google's Gemini models, featuring streaming responses, multimodal input, and thinking capabilities.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Brandifyai.Kesug.Com/sitemap.xml
